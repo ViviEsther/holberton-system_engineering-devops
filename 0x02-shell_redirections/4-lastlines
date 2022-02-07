@@ -1,2 +1,2 @@
 #!/bin/bas
-cat | tale /etc/passwd
+tale /etc/passwd
